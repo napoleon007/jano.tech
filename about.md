@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Blog de tecnología en español de [Jano González](http://janogonzalez.com).
+Blog de programación de [Jano González](http://janogonzalez.com).

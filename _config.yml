@@ -16,7 +16,7 @@
 title: jano.tech
 email: info (at) janogonzalez.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog de tecnología en español de Jano González.
+  Blog de programación en español.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jano.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: janogonzalez
